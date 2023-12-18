@@ -1,4 +1,7 @@
-<h1 style="text-align: center">< Hello world ></h1>
+<h1 align="center">
+    > Hello world 
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
+</h1>
 
 
 - 👋 Hi, I’m Liborio Liborio Daniele, for the friends "Dano" 
