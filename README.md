@@ -1,14 +1,13 @@
-<h1 align="center">
-    > Hello world 
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=40 /> 
-</h1>
+<h1 align="center"> > Hello world </h1>
 
-
-- 👋 Hi, I’m Liborio Liborio Daniele, for the friends "Dano" 
-- 🏀 🎸 I like playing basketball and playing the guitar 
-- 💻 I am a computer expert and I'm currently studying to become a full stack developer 
-- 🧑🏻‍💻 I have always been passionate about IT and for this reason I decided to make it my job
-- 📫 You can reach me on discord via the link
+<h2> About me </h2>
+<ul>
+    <li>👋 Hi, I’m Liborio Liborio Daniele, for the friends "Dano"</li>
+    <li>🏀 🎸 I like playing basketball and playing the guitar</li>
+    <li>💻 I am a computer expert and I'm currently studying to become a full stack developer</li>
+    <li>🧑🏻‍💻 I have always been passionate about IT and for this reason I decided to make it my job</li>
+    <li>📫 You can reach me on discord via the link</li>
+</ul>
 
 <!---
 danofra/danofra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
