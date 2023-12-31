@@ -30,7 +30,7 @@
         <a href="https://www.linkedin.com/in/dano-fra">Linkedin</a>
         <span> ✅ </span> <br>
         <a href="https://discord.com/channels/@me/1179704138423087177">Discord</a>
-        <span> ✅ Work in Progress!</span>
+        <span> ✅ <br> Work in Progress!</span>
         </p>
     </main>
     <footer>
