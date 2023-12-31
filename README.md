@@ -26,11 +26,11 @@
         <h2 align="center"><tt> Contact </tt></h2>
         <p align="center">
         <a href="https://www.instagram.com/dano_fra/">Instagram</a>
-        <span> 🔛 </span>
+        <span> ✅ </span> <br>
         <a href="https://www.linkedin.com/in/dano-fra">Linkedin</a>
-        <span> 🔛 </span>
+        <span> ✅ </span> <br>
         <a href="https://discord.com/channels/@me/1179704138423087177">Discord</a>
-        <span> 🔛 Work in Progress!</span>
+        <span> ✅ Work in Progress!</span>
         </p>
     </main>
     <footer>
