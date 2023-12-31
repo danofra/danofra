@@ -17,12 +17,12 @@
     </header>
     <main>
         <h2 align="center"><tt> About me </tt></h2>
-        <ul>
-            <li>🏀 🎸 I like playing basketball and playing the guitar</li>
-            <li>💻 I am a computer expert and I'm currently studying to become a full stack developer</li>
-            <li>🧑🏻‍💻 I have always been passionate about IT and for this reason I decided to make it my job</li>
-            <li>📫 You can reach me on discord via the link</li>
-        </ul>
+      <div align="center">
+            <p>🏀 🎸 I like playing basketball and playing the guitar</p>
+            <p>💻 I am a computer expert and I'm currently studying to become a full stack developer</p>
+            <p>🧑🏻‍💻 I have always been passionate about IT and for this reason I decided to make it my job</p>
+            <p>📫 You can reach me on discord via the link</p>
+      </div>  
         <h2 align="center"><tt> Contact </tt></h2>
         <p align="center">
         <a href="https://www.instagram.com/dano_fra/">Instagram</a>
