@@ -27,10 +27,8 @@
       <p align="center">
         <a
           href="mailto:frascaliboriodaniele@gmail.com"
-          >frascaliboriodaniele@gmail.com</a
-        >
-      </p>
-        <p align="center">
+          >frascaliboriodaniele@gmail.com</a>
+        <span> ✅ </span>
         <a href="https://www.instagram.com/dano_fra/">Instagram</a>
         <span> ✅ </span> <br>
         <a href="https://www.linkedin.com/in/dano-fra">Linkedin</a>
@@ -41,7 +39,7 @@
     </main>
     <footer>
         <hr/>
-      <p>ReadMe.md By Me &copy</p>
+      <p align="center">&copy ReadMe.md By Liborio Daniele Frasca </p>
       
     </footer>
   </body>
