@@ -24,7 +24,7 @@
             <p>📫 You can reach me on discord via the link</p>
       </div>  
         <h2 align="center"><tt> Contact </tt></h2>
-      <address>
+      <address align="center">
         <a
           href="mailto:frascaliboriodaniele@gmail.com"
           >frascaliboriodaniele@gmail.com</a
