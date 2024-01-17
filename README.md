@@ -24,12 +24,12 @@
             <p>📫 You can reach me on discord via the link</p>
       </div>  
         <h2 align="center"><tt> Contact </tt></h2>
-      <address align="center">
+      <p align="center">
         <a
           href="mailto:frascaliboriodaniele@gmail.com"
           >frascaliboriodaniele@gmail.com</a
         >
-      </address>
+      </p>
         <p align="center">
         <a href="https://www.instagram.com/dano_fra/">Instagram</a>
         <span> ✅ </span> <br>
