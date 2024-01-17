@@ -33,7 +33,6 @@
     <footer>
         <hr/>
       <p align="center">&copy ReadMe.md By Liborio Daniele Frasca </p>
-      
     </footer>
   </body>
 </html>
