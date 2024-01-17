@@ -24,6 +24,12 @@
             <p>📫 You can reach me on discord via the link</p>
       </div>  
         <h2 align="center"><tt> Contact </tt></h2>
+      <address>
+        <a
+          href="mailto:frascaliboriodaniele@gmail.com"
+          >frascaliboriodaniele@gmail.com</a
+        >
+      </address>
         <p align="center">
         <a href="https://www.instagram.com/dano_fra/">Instagram</a>
         <span> ✅ </span> <br>
@@ -36,12 +42,7 @@
     <footer>
         <hr/>
       <p>ReadMe.md By Me &copy</p>
-      <address>
-        <a
-          href="mailto:frascaliboriodaniele@gmail.com"
-          >frascaliboriodaniele@gmail.com</a
-        >
-      </address>
+      
     </footer>
   </body>
 </html>
