@@ -18,14 +18,18 @@
       </div>  
         <h2 align="center"><tt> Contact </tt></h2>
       <p align="center">
+        <span> ➤ </span>
         <a
           href="mailto:frascaliboriodaniele@gmail.com"
           >frascaliboriodaniele@gmail.com</a>
-        <span> ➤ </span> <br>
+         <br>
+        <span> ➤ </span>
         <a href="https://www.instagram.com/dano_fra/">Instagram</a>
-        <span> ➤ </span> <br>
+         <br>
+        <span> ➤ </span>
         <a href="https://www.linkedin.com/in/dano-fra">Linkedin</a>
-        <span> ➤ </span> <br>
+         <br>
+        <span> ➤ </span>
         <a href="https://discord.com/channels/@me/1179704138423087177">Discord</a>
         </p>
     </main>
