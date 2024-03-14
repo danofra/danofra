@@ -6,7 +6,7 @@
   <body>
     <header>
       <h1 align="center"> <tt>> Hello world <</tt> </h1>
-      <p align="center">👋 Hi, I’m Liborio Liborio Daniele, for the friends "Dano"</p>
+      <p align="center">👋 Hi, I’m Liborio Daniele</p>
     </header>
     <main>
         <h2 align="center"><tt> About me </tt></h2>
@@ -21,13 +21,12 @@
         <a
           href="mailto:frascaliboriodaniele@gmail.com"
           >frascaliboriodaniele@gmail.com</a>
-        <span> ✅ </span> <br>
+        <span> ➤ </span> <br>
         <a href="https://www.instagram.com/dano_fra/">Instagram</a>
-        <span> ✅ </span> <br>
+        <span> ➤ </span> <br>
         <a href="https://www.linkedin.com/in/dano-fra">Linkedin</a>
-        <span> ✅ </span> <br>
+        <span> ➤ </span> <br>
         <a href="https://discord.com/channels/@me/1179704138423087177">Discord</a>
-        <span> ✅ <br> Work in Progress!</span>
         </p>
     </main>
     <footer>
