@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Banner">
+  <img src="banner_git.png" alt="Banner">
 </p>
 
 
