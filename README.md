@@ -9,7 +9,7 @@
 
 <!-- About Me -->
 <h1 align="center"><tt>About Me 🚀</tt></h1>
-<p>I'm a full stack developer with a fervent passion for technology. Proficient in both frontend and backend, I specialize in using HTML5, CSS3, JavaScript, Java, Spring, and SQL to create robust and performant web applications. I love crafting dynamic interfaces with React and managing application state with Redux. Outside of work, I find inspiration in music and sports.</p>
+<p>I'm a full stack developer with a fervent passion for technology. Proficient in both frontend and backend, I'm specialize in using HTML5, CSS3, JavaScript, Java, Spring, and SQL to create robust and performant web applications. I love crafting dynamic interfaces with React and managing application state with Redux. Beyond my job, I find inspiration in music and sports.</p>
 
 <!-- Skills -->
 <h1 align="center"><tt>Skills 🛠️</tt></h1>
