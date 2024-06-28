@@ -47,7 +47,7 @@
 
 <!-- Contact -->
 <h1 align="center"><tt>Contatti 📞</tt></h1>
-<p align="center">You can contact me via:</p>
+<p align="center">Puoi contattarmi tramite:</p>
 <p align="center">
   <a href="mailto:frascaliboriodaniele@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/dano-fra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -55,4 +55,4 @@
 
 <!-- Footer -->
 <hr/>
-<p align="center">&copy; ReadMe.md By Liborio Daniele Frasca</p>
+<p align="center">&copy; Liborio Daniele Frasca</p>
