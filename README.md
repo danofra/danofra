@@ -59,7 +59,10 @@
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0165A9?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/RubyMine-8E2F3B?style=for-the-badge&logo=rubymine&logoColor=white" alt="RubyMine">
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">
 </p>
+
 
 <!-- Contact -->
 <h1 align="center"><tt>Contatti 📞</tt></h1>
